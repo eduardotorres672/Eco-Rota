@@ -59,5 +59,6 @@ while True:
 
     jogar_novamente = input("Deseja jogar novamente? (s/n): ")
     if jogar_novamente.lower() != "s":
-        print("Obrigado por jogar! Até a próxima! 👋")
+        print("Obrigado por jogar! Até a próxima! ")    
+        
         break
